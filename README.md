@@ -23,7 +23,8 @@ An aggregate table is a table created by collecting and calculating data from ba
 ![image](https://github.com/aldilahariwibowo/Sales-Report-Kimia-Farma/assets/80616937/1a602a08-e52a-4b70-9fec-12b0d6ab5988)
 
 # Data Visualization
-![Sales_Report_Kimia_Farma_page-0001](https://github.com/aldilahariwibowo/Sales-Report-Kimia-Farma/assets/80616937/8f475b01-fcc6-4c75-9a48-870f998eee6a)
+![Sales_Report_Kimia_Farma_page-0001 (1)](https://github.com/aldilahariwibowo/Sales-Report-Kimia-Farma/assets/80616937/73945ed4-046d-4b00-b55c-04e626ed6e69)
+
 
 
 
