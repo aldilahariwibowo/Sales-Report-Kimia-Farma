@@ -2,13 +2,18 @@
 
 VIX Big Data Analytics Kimia Farma is a virtual internship experience facilitated by Rakamin Academy. In this project, I played the role of a Project-Based Intern tasked with analyzing and creating sales reports for the company using the provided data. Through this project, I also learned a lot about data warehouse, data lake, and datamart.
 
-Objectives
+Objectives :
+
 •	Creating datamart design (base tables and aggregate tables)
+
 •	Creating visualizations/dashboard for company sales reports
 
 Dataset consists of the following tables:
+
 •	Sales
+
 •	Products
+
 •	Customers
 
 # Base Table 
